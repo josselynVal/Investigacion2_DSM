@@ -10,3 +10,7 @@ Asimismo, se incluyen dos ejemplos tomándo como base la lectura._
 * Gamez Efigenio, Manuel de Jesús - GE141684 - G01T
 * Gómez López, Erika Lissette - GL151366 - G01T
 * Perez Valencia, Josselyn del Carmen - PV150955 - G01T
+
+## Enlace del documento en la nube ✨
+
+* [Documento PDF] - https://drive.google.com/file/d/1FUYmNAehCuvbm_48sJigIJFF6Q8r3Ng5/view?usp=sharing
