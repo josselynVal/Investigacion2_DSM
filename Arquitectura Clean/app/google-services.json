@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29620915457",
+    "project_id": "arquitecturaclean-1f6b9",
+    "storage_bucket": "arquitecturaclean-1f6b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29620915457:android:0a29352ee179ce6d6c1f00",
+        "android_client_info": {
+          "package_name": "com.edu.sv.ejercicio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29620915457-ov4ofg219dou633n7bt44rf7voaiklci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqEM2Ft8mrZmxqjmOpcfJND3z5v0iL370"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29620915457-ov4ofg219dou633n7bt44rf7voaiklci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
